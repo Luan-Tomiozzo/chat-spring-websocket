@@ -1,4 +1,4 @@
-package com.teste.demo.config;
+package com.chat.config;
 
 import io.swagger.v3.oas.models.info.Info;
 import org.springdoc.core.GroupedOpenApi;

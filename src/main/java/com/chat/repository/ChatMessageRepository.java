@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.teste.demo.repository;
+package com.chat.repository;
 
-import com.teste.demo.controller.domain.ChatMessage;
+import com.chat.controller.domain.ChatMessage;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 /**

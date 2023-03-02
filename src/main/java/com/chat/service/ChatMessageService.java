@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.teste.demo.service;
+package com.chat.service;
 
-import com.teste.demo.controller.domain.ChatMessage;
-import com.teste.demo.repository.ChatMessageRepository;
+import com.chat.controller.domain.ChatMessage;
+import com.chat.repository.ChatMessageRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 /**
