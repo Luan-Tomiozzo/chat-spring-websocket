@@ -11,7 +11,7 @@
     <groupId>com.teste</groupId>
     <artifactId>demo</artifactId>
     <packaging>war</packaging>
-    <name>demo</name>
+    <name>chat-spring-websocket</name>
     <description>Demo project for Spring Boot</description>
       
     <properties>
